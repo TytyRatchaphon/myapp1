@@ -1,6 +1,5 @@
 package myapp;
-package myapp;
 
-public class Z {
-    Integer age;
+public class Z{
+    Integer 
 }
