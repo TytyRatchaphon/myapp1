@@ -1,5 +1,5 @@
 package myapp;
 
 public class Z{
-    Integer 
+    Integer  age;
 }
